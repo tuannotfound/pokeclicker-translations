@@ -1,6 +1,6 @@
 module.exports = {
   primaryLanguage: 'en',
-  secondaryLanguages: ['de', 'es', 'fr', 'it', 'ja', 'ko', 'zh-Hans', 'zh-Hant', 'ru', 'tr', 'nl', 'pt-BR'],
+  secondaryLanguages: ['de', 'es', 'fr', 'it', 'ja', 'ko', 'zh-Hans', 'zh-Hant', 'ru', 'tr', 'nl', 'pt-BR', 'vi'],
   localesFolder: './locales',
   spaces: 2,
   useEmptyString: true,
