@@ -12,10 +12,10 @@
     "WANDER": "",
     "OTHER": "Khác"
   },
-  "earnedAchievement": "",
-  "escapedShiny": "",
+  "earnedAchievement": "Đạt thành tựu \"{{ name }}\".",
+  "escapedShiny": "Shiny {{ pokemon, pokemon }} đã xổng mất!",
   "escapedShinyDupe": "",
-  "escapedWild": "",
+  "escapedWild": "{{ pokemon, pokemon }} hoang dã đã xổng mất!",
   "encounterShiny": "",
   "encounterShinyDupe": "",
   "encounterWild": "",
