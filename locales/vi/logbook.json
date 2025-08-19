@@ -1,16 +1,16 @@
 {
   "type": {
-    "NEW": "",
-    "SHINY": "",
-    "CAUGHT": "",
-    "ESCAPED": "",
+    "NEW": "Mới",
+    "SHINY": "Shiny",
+    "CAUGHT": "Bắt",
+    "ESCAPED": "Đã xổng",
     "ROAMER": "",
-    "ACHIEVE": "",
-    "QUEST": "",
-    "FOUND": "",
+    "ACHIEVE": "Thành tựu",
+    "QUEST": "Nhiệm vụ",
+    "FOUND": "Tìm thấy",
     "FRONTIER": "",
     "WANDER": "",
-    "OTHER": ""
+    "OTHER": "Khác"
   },
   "earnedAchievement": "",
   "escapedShiny": "",
